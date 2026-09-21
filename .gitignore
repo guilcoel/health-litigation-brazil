@@ -1,6 +1,11 @@
+# macOS AppleDouble sidecars, created on non-HFS volumes such as /Volumes/Forja
+._*
 .DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# R
 .Rhistory
 .RData
 .Rproj.user/
-*.Rproj
-output/
